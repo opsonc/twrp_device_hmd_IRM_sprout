@@ -21,7 +21,7 @@ PRODUCT_PACKAGES += \
 PRODUCT_PACKAGES += \
     bootctrl.mt6761
 
-PRODUCT_SHARED_LIBRARIES := \
+PRODUCT_SHARED_LIBRARY := \
     bootctrl.mt6761 \
     libgptutils \
     libz \
