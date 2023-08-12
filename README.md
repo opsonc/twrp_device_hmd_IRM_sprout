@@ -1,5 +1,6 @@
-# Android device tree for Nokia Nokia 2.3 (IRM_sprout)
+# TWRP device tree for the Nokia 2.3 (IRM_sprout)
 
+will add specs later
 ```
 #
 # Copyright (C) 2023 The Android Open Source Project
