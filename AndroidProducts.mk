@@ -6,9 +6,9 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/omni_IRM_sprout.mk
+    $(LOCAL_DIR)/twrp_IRM_sprout.mk
 
 COMMON_LUNCH_CHOICES := \
-    omni_IRM_sprout-user \
-    omni_IRM_sprout-userdebug \
-    omni_IRM_sprout-eng
+    twrp_IRM_sprout-user \
+    twrp_IRM_sprout-userdebug \
+    twrp_IRM_sprout-eng
